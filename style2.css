@@ -1,0 +1,15 @@
+form input[type=password]{
+    width: 55%;
+}
+
+form{
+    width: 450px;
+}
+
+form button{
+    width: 300px;
+    margin-left: 70px;
+}
+form button:hover{
+    opacity: 0.9;
+}
